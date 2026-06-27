@@ -1,7 +1,8 @@
 ![Dragonbox Media Streaming](https://raw.githubusercontent.com/dragonboxtv/site/refs/heads/main/dragonbox_viewer1.png)
 # Dragonbox 2026 — Media Streaming Desktop App
 
-Media player desktop standalone, com navegação visual, reprodução MPV, EPG, DNS bypass e licenciamento por assinatura via whatsapp ou discord.
+Media player desktop standalone, com navegação visual, reprodução MPV, EPG, DNS bypass
+e licenciamento por assinatura via whatsapp ou discord.
 
 ---
 
