@@ -3,8 +3,11 @@
 
 Media player desktop standalone, com navegação visual, reprodução MPV, EPG, DNS bypass
 e licenciamento por assinatura via whatsapp ou discord.
-
 ---
+[#CLIQUE AQUI PARA ACESSAR NOSSO SITE](https://dragonboxtv.github.io/site/)
+-
+[#CLIQUE AQUI PARA ACESSAR NOSSA LOJA NO DISCORD](https://discord.com/invite/32EpSzEM3j)
+-
 
 ## Arquitetura
 
@@ -64,6 +67,6 @@ Ativação via key única com validação online.
 ## Licenciamento
 Este projeto é distribuído comercialmente via assinatura. 
 ---
-*Dragonbox v1.8.8 — © 2026 PyNEXUS*
-SITE OFICIAL: 
+*Dragonbox — © 2026 PyNEXUS*
+SITE OFICIAL: https://dragonboxtv.github.io/site/
 LOJA OFICIAL DISCORD: https://discord.com/invite/32EpSzEM3j
